@@ -5,7 +5,7 @@
 
 
 #### My lgb param setting
-![image](https://github.com/nat99up/Kaggle_Digit_Recognize/raw/master/result/lgb_param.png
+![image](https://github.com/nat99up/Kaggle_SCTP/blob/master/result/lgb_param.png)
 ---
 
 #### Get top 6% in leaderboard
